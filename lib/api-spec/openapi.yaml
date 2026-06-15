@@ -5,8 +5,8 @@ info:
   version: 0.1.0
   description: API specification
 servers:
-  - url: /api
-    description: Base API path
+  -  url: https://ebook-research-api.onrender.com/api
+    description: Production API
 tags:
   - name: health
     description: Health operations
